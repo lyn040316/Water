@@ -1,2 +1,2 @@
 # Water
-theme: Midnight
+theme: midnight
